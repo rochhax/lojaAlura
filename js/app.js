@@ -5,8 +5,12 @@ let valorFinal = 0;
 function adicionar(){
     let nomeProdutoValor = document.getElementById('produto').value;
     let qnt = document.getElementById('quantidade').value;
+   
+    if (nomeProdutoValor == 'Vazio' || qnt == 0 || qnt == ''){
+        alert('Produto ou quantidade invalida!')
+        return
+    }
 
-    //Dividir 
     let partes = nomeProdutoValor.split('-');
     let nomeProduto = partes[0];
     let valor = parseInt(partes[1].replace('R$', ''));
