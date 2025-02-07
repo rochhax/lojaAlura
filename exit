@@ -1,0 +1,19 @@
+[33mcommit f969ee8daf4d93f81e736797f3d0d7c02a24bd41[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: rochhax <devcarlosrocha23@gmail.com>
+Date:   Fri Feb 7 19:24:02 2025 -0300
+
+    2 novos produtos adicionados
+
+[33mcommit 5b2983a62eae8be0a2150867f700e46cd86102d5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Carlos Rocha <devcarlosrocha23@gmail.com>
+Date:   Fri Jan 24 18:27:42 2025 -0300
+
+    Update app.js
+    
+    Add funcionalidade para validação se o usuário colocou valores corretos em (quantidade - produto)
+
+[33mcommit 426b2d702679b0d36a492ea8f81a1c45eae52458[m
+Author: rochhax <devcarlosrocha23@gmail.com>
+Date:   Fri Jan 24 15:07:59 2025 -0300
+
+    Add files via upload
